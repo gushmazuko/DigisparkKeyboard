@@ -1,5 +1,5 @@
 # Different DigisparkKeyboard Layouts
-**French layout**
+- **French layout**
 
 Copy the files into `~/.arduino15/packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard`
 
