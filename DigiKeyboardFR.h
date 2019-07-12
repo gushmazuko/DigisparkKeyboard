@@ -2,7 +2,8 @@
  * Based on Obdev's AVRUSB code and under the same license.
  *
  * TODO: Make a proper file header. :-)
- * Modified for Digispark by Digistump
+ * Modified for Digispark by gushmazuko
+ * French Layout
  */
 #ifndef __DigiKeyboard_h__
 #define __DigiKeyboard_h__
